@@ -16,3 +16,7 @@ A casual, interactive river-crossing puzzle game built in Python with Pygame. Sa
 
 ## Prerequisites & Installation
 Make sure you have Python installed on your system. You will also need the `pygame` library.
+
+**NOTE:-**Download monster.png and saint.png or you may also download some other picture you prefer and rename it to the names to use them.
+
+THANK YOU! I hope you enjoy your experience
