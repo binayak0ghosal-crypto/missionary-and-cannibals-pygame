@@ -19,4 +19,9 @@ Make sure you have Python installed on your system. You will also need the `pyga
 
 **NOTE:-**Download monster.png and saint.png or you may also download some other picture you prefer and rename it to the names to use them.
 
+<img width="800" height="639" alt="image" src="https://github.com/user-attachments/assets/506b7c2d-8864-4d6c-91db-d810acfcb039" />
+<img width="805" height="638" alt="image" src="https://github.com/user-attachments/assets/e1078b4e-e3e1-4b41-8c3b-462820ac32cf" />
+<img width="801" height="633" alt="image" src="https://github.com/user-attachments/assets/ec6112ce-5d92-4e53-a2f8-5b9007b6b461" />
+
+
 THANK YOU! I hope you enjoy your experience
